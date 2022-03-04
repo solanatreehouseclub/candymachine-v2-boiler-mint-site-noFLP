@@ -176,39 +176,39 @@ const App = () => {
               <table className="table">
                 <tbody>
                   <tr>
-                    <td>New York, NY, USA</td>
-                    <td>Sun, 5</td>
-                    <td>17:00</td>
+                    <td>New York, NY, USA </td>
+                    <td>Saturday, 5  </td>
+                    <td> 17:00</td>
                   </tr>
                   <tr>
-                    <td>London, United Kingdom</td>
-                    <td>Sun, 5</td>
-                    <td>22:00</td>
+                    <td>London, United Kingdom </td>
+                    <td>Saturday, 5  </td>
+                    <td> 22:00</td>
                   </tr>
                   <tr>
-                    <td>Moscow, Russia</td>
-                    <td>Mon, 6</td>
-                    <td>01:00</td>
+                    <td>Moscow, Russia </td>
+                    <td>Sunday, 6  </td>
+                    <td> 01:00</td>
                   </tr>
                   <tr>
-                    <td>New Delhi, India</td>
-                    <td>Mon, 6</td>
-                    <td>03:30</td>
+                    <td>New Delhi, India </td>
+                    <td>Sunday, 6  </td>
+                    <td> 03:30</td>
                   </tr>
                   <tr>
-                    <td>Beijing, China</td>
-                    <td>Mon, 6</td>
-                    <td>06:00</td>
+                    <td>Beijing, China </td>
+                    <td>Sunday, 6  </td>
+                    <td> 06:00</td>
                   </tr>
                   <tr>
-                    <td>Australian Eastern Time</td>
-                    <td>Mon, 6</td>
-                    <td>09:00</td>
+                    <td>Australian Eastern Time </td>
+                    <td>Sunday, 6  </td>
+                    <td> 09:00</td>
                   </tr>
                   <tr>
-                    <td>UTC</td>
-                    <td>Sun, 5</td>
-                    <td>22:00</td>
+                    <td>UTC </td>
+                    <td>Saturday, 5  </td>
+                    <td> 22:00</td>
                   </tr>
                 </tbody>
               </table>
