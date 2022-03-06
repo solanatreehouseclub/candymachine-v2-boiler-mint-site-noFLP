@@ -312,7 +312,7 @@ const Home = (props: HomeProps) => {
                       {(phase === Phase.WhiteListMint ||
                         phase === Phase.PublicMint) &&
                         (itemsAvailable !== null && mintingTotal !== null ? (
-                          <p>{mintingTotal + " / " + itemsAvailable}</p>
+                          <p>{mintingTotal + " / " + "222"}</p>
                         ) : (
                           <p className="loading"></p>
                         ))}
